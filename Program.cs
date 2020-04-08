@@ -27,12 +27,6 @@ namespace BoxingUnboxing
                 }
             }
             Console.WriteLine(sum);
-
-
-            // object ActuallyString = "a string";
-            // string ExplicitString = ActuallyString as string;
-
-            // Console.WriteLine(ExplicitString);
         }
     }
 }
