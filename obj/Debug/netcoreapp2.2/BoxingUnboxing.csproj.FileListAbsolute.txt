@@ -1,0 +1,11 @@
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp2.2/BoxingUnboxing.deps.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp2.2/BoxingUnboxing.runtimeconfig.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp2.2/BoxingUnboxing.runtimeconfig.dev.json
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp2.2/BoxingUnboxing.dll
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp2.2/BoxingUnboxing.pdb
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp2.2/BoxingUnboxing.csprojAssemblyReference.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp2.2/BoxingUnboxing.csproj.CoreCompileInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp2.2/BoxingUnboxing.AssemblyInfoInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp2.2/BoxingUnboxing.AssemblyInfo.cs
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp2.2/BoxingUnboxing.dll
+/Users/cthulhu/Documents/Dojo/C#/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp2.2/BoxingUnboxing.pdb
